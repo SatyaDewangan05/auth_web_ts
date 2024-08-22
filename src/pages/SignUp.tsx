@@ -120,7 +120,7 @@ const SignUp: React.FC<ServerIpProps> = ({ serverIp }) => {
     }
     setLoading(true);
     try {
-      const response = await axios.post(serverIp + "/api/auth/signup", {
+      await axios.post(serverIp + "/api/auth/signup", {
         firstName,
         lastName,
         password,
@@ -151,8 +151,7 @@ const SignUp: React.FC<ServerIpProps> = ({ serverIp }) => {
   const verifyOTP = async () => {
     setOtpLoading(true);
     try {
-      const { firstName, lastName, password, retypePassword, email, contact } =
-        formData;
+      const { email } = formData;
       const response = await axios.post(serverIp + "/api/auth/verify-otp", {
         email,
         otp,
