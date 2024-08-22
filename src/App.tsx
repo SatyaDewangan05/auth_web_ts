@@ -9,7 +9,7 @@ import Dashboard from "./pages/Dashboard";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 const App: React.FC = () => {
-  const serverIp = "http://localhost:5000";
+  const serverIp = "https://auth-server-ts.vercel.app";
   return (
     <MantineProvider>
       <BrowserRouter>
