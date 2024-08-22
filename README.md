@@ -1,5 +1,7 @@
 Here's a template for a `README.md` file for your GitHub repository. You can customize it to fit your project's specific needs:
 
+HOSTED IP: https://auth-web-ts.vercel.app/
+
 ```markdown
 # Health Delite
 
