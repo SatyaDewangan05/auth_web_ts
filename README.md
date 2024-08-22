@@ -85,7 +85,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, please contact us at [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, please contact us at [satyadewangan05@gmail.com](mailto:satyadewangan05@gmail.com).
 
 ---
 
@@ -93,7 +93,7 @@ Thank you for checking out Health Delite!
 
 ### Customizing the README
 
-- **Replace `https://github.com/yourusername/health_delite.git`** with the actual URL of your GitHub repository.
+- **Replace `https://github.com/SatyaDewangan05/auth_web_ts.git`** with the actual URL of your GitHub repository.
 - **Add specific details** about any additional features or usage instructions that are unique to your project.
 - **Update contact information** and contributing guidelines if applicable.
 
